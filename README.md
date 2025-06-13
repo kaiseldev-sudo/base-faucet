@@ -67,10 +67,6 @@ http://localhost:5000
 - Keep your CDP API credentials secure
 - The application runs locally on your machine
 
-## License
-
-[Your chosen license]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. 
