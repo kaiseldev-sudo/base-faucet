@@ -1,0 +1,5 @@
+flask==3.0.2
+python-dotenv==1.0.0
+cdp==0.0.2
+aiohttp==3.9.3
+asyncio==3.4.3 
